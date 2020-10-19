@@ -1,0 +1,14 @@
+{
+  "name": "jest-openpgp-error",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "openpgp": "^4.10.8"
+  }
+}
